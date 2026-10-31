@@ -2,7 +2,7 @@
 [![](https://github.com/ishandutta2007/ishandutta2007/blob/main/chat.svg)](https://twitter.com/ishandutta2007)
 
  <h4 align="center"> My popular opensource repos : https://ishandutta2007.github.io/star-history-user/?user=ishandutta2007 </h4>
- <h4 align="center"> One of <a href="https://committers.top/india_private">Top 10 active github</a> users from India </h4>
+ <h4 align="center"> One of <a href="https://committers.top/india_private">Top 10 active GitHub</a> users from India </h4>
  <h4 align="center"> One of <a href="https://www.spoj.com/ranks/users/IN/">Top 30 Spoj users</a> from India </h4>
  <h4 align="center"> One of Top 500 <a href="https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country#resultSets">stackoverflow</a> and <a href="https://data.stackexchange.com/math/query/53058/top-users-by-country">math.stackexchange</a> users from India.</h4>
 
@@ -28,7 +28,7 @@
 
 <!-- ![Ishan's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=ishandutta2007&theme=dark&show_icons=true) -->
 
-<h1>📊 Github Stats and Activity</h1>
+<h1>📊 GitHub Stats and Activity</h1>
 
 <p align="center">
     <a href="https://github.com/ishandutta2007/beautiful-github-homepage">
